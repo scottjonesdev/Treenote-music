@@ -1,0 +1,290 @@
+
+/* main css */
+body {
+	background-color: #0E0E0E;
+	color: #D4D4D4;
+	font-family: "helvetica", sans-serif;
+}
+
+
+nav ul {
+  	list-style-type: none;
+  	width: 350px;
+  	margin:  auto;
+  	padding: 0;
+  	overflow: hidden;
+}
+
+nav li a {
+  	display: block;
+  	color: #D4D4D4;
+  	background-color: #0E0E0E;
+  	text-align: center;
+  	width: 38px;
+  	padding: 14px 16px;
+  	text-decoration: none;
+  	transition-duration: 0.5s;
+}
+
+.stream {
+	transition-duration: 0.5s;
+}
+
+.stream:hover {
+	opacity: 40%;
+}
+
+nav li {
+	float: left;
+}
+
+#mail {
+	max-width: 18px;
+}
+
+#foot {
+	background-color: #202020;
+	padding: 20px;
+	text-align: center;
+}
+
+a {
+	color: #D4D4D4;
+	font-weight: bold;
+	text-decoration: none;
+	transition-duration: 0.5s;
+}
+
+a:hover {
+	color: #A3A3A3;
+}
+
+p {
+	color: #A8A8A8;
+	padding: 2px;
+}
+
+h3 {
+	padding: 2px;
+}
+
+h1 {
+	padding: 2px;
+}
+
+nav li a:hover {
+  	color: #A3A3A3;
+}
+
+header .current a{
+	color: #545454;
+}
+
+#banner {
+	max-width: 1800px;
+	display: block;
+	margin: 0 auto;
+}
+
+/* Slideshow container */
+.slideshow-container {
+  	max-width: 1400px;
+  	position: relative;
+  	margin: auto;
+}
+
+/* Hide the images by default */
+.mySlides {
+  	display: none;
+}
+
+/* Fading animation */
+.fade {
+  	-webkit-animation-name: fade;
+  	-webkit-animation-duration: 2s;
+  	animation-name: fade;
+  	animation-duration: 2s;
+}
+
+@-webkit-keyframes fade {
+  	from {opacity: .4} 
+  	to {opacity: 1}
+}
+
+@keyframes fade {
+  	from {opacity: .4} 
+  	to {opacity: 1}
+}
+
+#post1 {
+	background-color: #202020;
+	background-size: 100%;
+	text-align: center;
+}
+
+#post2 {
+	text-align: center;
+}
+
+#news1 {
+	background-color: #202020;
+	background-size: 100%;
+}
+
+#news2 {
+	background-size: 100%;
+}
+
+#footerP {
+	padding-top: 20px;
+}
+
+#player .EmbeddedPlayer {
+	background-color: #202020;
+	float: left;
+	text-align: center;
+	width: 100%;
+	padding: 10px;
+  	overflow: hidden;
+
+}
+
+#youtube, #youtube_video {
+	width: 350px;
+	height: 260px;
+	text-align: center;
+}
+
+.clear {
+	clear: both;
+}
+
+#volume123 {
+	display: block;
+	text-align: center;
+	width: 100%;
+	float: left;
+	background-color: #202020;
+
+}
+#volume {
+	width: 30%;
+	overflow: hidden;
+	padding-top: -80px;
+}
+
+@media only screen and (min-width: 480px) {
+	nav ul {
+	  	width: 400px;
+	}
+
+	nav li a {
+	  	width: 47px;
+	}
+}
+
+@media only screen and (min-width: 768px) {
+	nav ul {
+	  	width: 600px;
+	}
+
+	nav li a {
+	  	width: 120px;
+	}
+	#about {
+		padding-left: 40px;
+	}
+
+	#generalP {
+		padding-left: 40px;
+		padding-right: 40px;
+	}
+
+
+	#noindent {
+		text-indent: 0px;
+		padding-right: 20px;
+		padding-left: 40px;
+	}
+
+	* {box-sizing:border-box}
+
+	h1 {
+		text-indent: 40px;
+
+	}
+	h2 {
+		text-align: center;
+	}
+
+	h3 {
+		text-indent: 40px;
+		padding-top: 20px;
+	}
+
+	.stream {
+		float: left;
+		text-align: center;
+		width: 16.66%;
+		padding: 10px;
+		overflow: hidden;
+		background-color: #0E0E0E;
+		padding-bottom: 20px;
+	}
+
+	.stream3 {
+		float: left;
+		text-align: center;
+		width: 16.66%;
+		padding: 10px;
+		overflow: hidden;
+		background-color: #202020;
+		padding-bottom: 20px;
+	}
+
+	.stream2 {
+		float: left;
+		text-align: center;
+		width: 20%;
+		padding: 10px;
+		overflow: hidden;
+		background-color: #0E0E0E;
+		padding-bottom: 20px;
+	}
+
+	#aboutindent {
+		list-style-position: inside;
+		color: #8A8A8A;
+	}
+
+	#youtube, #youtube_video {
+		width: 540px;
+		height: 360px;
+	}
+}
+
+ /* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+	#about {
+	float: left;
+	padding-left: 40px;
+	padding-right: 20px;
+	}
+
+	#youtube, #youtube_video {
+	width: 720px;
+	height: 480px;
+	}
+} 
+
+@media only screen and (min-width: 1200px) {
+	#player .EmbeddedPlayer{
+	padding: 0px;
+	width: 25%; /* allow for 4 boxes side by side */
+	}
+
+	#youtube, #youtube_video  {
+	width: 1080px;
+	height: 720px;
+	}
+}
