@@ -201,8 +201,8 @@ hr {
 	display: inline-block;
 	padding: 4px;
 	text-align: center;
-	width: 100%;
-	margin: 10px;
+	max-width: 100%;
+	margin: auto;
 }
 
 .youtube {
