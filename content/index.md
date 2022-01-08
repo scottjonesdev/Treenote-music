@@ -1,36 +1,41 @@
-<div class="content" markdown="1">
+<section class="content" markdown="1">
+
+# Treenote music
 <!-- Slideshow container -->
 <div class="slideshow-container">
  	<!-- Full-width images -->
  	<div class="mySlides fade">
-    	<img src="photos/olson.jpg" style="width:100%" alt="Olson">
+    	<img src="assets/photos/olson.jpg" alt="Olson">
   	</div>
   	<div class="mySlides fade">
-    	<img src="photos/fever.jpg" style="width:100%" alt="Fever">
+    	<img src="assets/photos/fever.jpg" alt="Fever">
   	</div>
   	<div class="mySlides fade">
-    	<img src="photos/twofilters.jpg" style="width:100%" alt="Two Filters">
+    	<img src="assets/photos/twofilters.jpg" alt="Two Filters">
   	</div>
   	<div class="mySlides fade">
-    	<img src="photos/somber.jpg" style="width:100%" alt="Somber">
+    	<img src="assets/photos/somber.jpg" alt="Somber">
   	</div>
   	<div class="mySlides fade">
-    	<img src="photos/brokendisco.jpg" style="width:100%" alt="Broken Disco">
+    	<img src="assets/photos/brokendisco.jpg" alt="Broken Disco">
   	</div>
   	<div class="mySlides fade">
-    	<img src="photos/hybridtempo.jpg" style="width:100%" alt="Hybrid Tempo">
+    	<img src="assets/photos/hybridtempo.jpg" alt="Hybrid Tempo">
   	</div>
 </div>
-<div markdown="1">
+<div markdown="1" class="videos">
+<br>
 
 ## My latest video
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<iframe id="youtube_video" width="1080" height="720" frameborder="0" allowfullscreen></iframe>
+<iframe id="youtube_video" class="youtube" width="1080" height="720" frameborder="0" allowfullscreen></iframe>
 </div>
+<br>
 
-<div markdown="1">
+***
 
 ## Listen to my music
-My music is available on Bandcamp, Youtube, and here on this website. 
+<div class="listen" markdown="1">
+My music is available to download or stream on <a href="https://treenote.bandcamp.com" target="_blank">Bandcamp</a> or on the <a href="music.html" target="_blank">music page</a> of this website. 
 </div>
-<div class="clear"></div>			
+</section>
