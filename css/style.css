@@ -4,14 +4,11 @@
   --theme-color: #416e50;
   --text-primary: #416e50;
   --text-secondary: #1F1F1F;
-  --text-tertiary: #1F1F1F;
   --heading-1: #416e50;
   --heading-2: #416e50;
-  --heading-3: #416e50;
-  --heading-4: #416e50;
+  --heading-3: #1F1F1F;
   --text-link: #f5f5f5;
   --font: "helvetica", sans-serif;
-  --text-hover: #333F37;
 }
 
 /* main css */
@@ -26,8 +23,12 @@ body {
 	padding-right: 0;
 }
 
-h1, h2, h3, h4, a {
-	color: var(--heading-1)
+h1, h2, h4, a {
+	color: var(--heading-1);
+}
+
+h3 {
+	color: var(--heading-3);
 }
 
 h1 {
@@ -51,7 +52,7 @@ h3, h4 {
 
 p {
 	text-align: justify;
-	color: var(--text-tertiary);
+	color: var(--text-secondary);
 	line-height: 1.2;
 }
 
