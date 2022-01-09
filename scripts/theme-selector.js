@@ -38,6 +38,8 @@ function setTheme(oldTheme, newTheme) {
 
   //update theme meta tag to match background of selected theme
   document.querySelector("meta[name='theme-color']").content = themeColor;
+
+  //swap out images based on theme
   document.getElementById("header-banner").src = banner;
   document.getElementById("mail").src = mail;
   document.getElementById("treenote-logo").src = logo;
