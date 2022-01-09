@@ -1,5 +1,5 @@
 /* CSS Variables -> Color Themes */
-:root {
+.light {
   --custom-background-color: #f8f8f8;
   --theme-color: #416e50;
   --text-primary: #416e50;
@@ -7,7 +7,23 @@
   --heading-1: #416e50;
   --heading-2: #416e50;
   --heading-3: #1F1F1F;
-  --text-link: #f5f5f5;
+  --heading-4: #1F1F1F;
+  --select-text: #f8f8f8;
+  --text-hover: #CBCBCB;
+  --font: "helvetica", sans-serif;
+}
+
+.dark {
+  --custom-background-color: #1F1F1F;
+  --theme-color: #ff4a6a;
+  --text-primary: #f8f8f8;
+  --text-secondary: #f8f8f8;
+  --heading-1: #ff4a6a;
+  --heading-2: #416e50;
+  --heading-3: #67C8FF;
+  --heading-4: #CF9FFF;
+  --select-text: #f8f8f8;
+  --text-hover: #CBCBCB;
   --font: "helvetica", sans-serif;
 }
 
@@ -29,6 +45,10 @@ h1, h2, h4, a {
 
 h3 {
 	color: var(--heading-3);
+}
+
+h4 {
+	color: var(--heading-4);
 }
 
 h1 {
@@ -63,7 +83,7 @@ a {
 }
 
 a:hover {
-	opacity: 60%;
+	color: var(--heading-4);
 }
 
 li {
@@ -85,7 +105,7 @@ nav li {
 nav li a {
   	display: block;
   	text-align: center;
-  	width: 34px;
+  	width: 40px;
   	padding: 14px 14px;
   	text-decoration: none;
   	transition-duration: 1s;
@@ -112,7 +132,40 @@ footer p {
 }
 
 hr {
-	border: 1px solid var(--theme-color);
+	border: 1px solid var(--text-primary);
+}
+
+select {
+  color: var(--select-text);
+  background: var(--theme-color);
+  padding: 5px;
+  font-family: var(--font);
+  border: none;
+  border-radius: 2px;
+  font-weight: bold;
+  font-size: 0.85rem;
+  -moz-appearance: none; 
+  -webkit-appearance: none; 
+  appearance: none;
+  transition-duration: 1s;
+  cursor: default;
+  text-align: center;
+}
+
+select:hover {
+  color: var(--text-hover);
+  cursor: pointer;
+}
+
+label {
+  color: var(--text-primary);
+  padding-right: 5px;
+  padding-left: 5px;
+  font-weight: bold;
+}
+
+option {
+  border: none;
 }
 
 @-webkit-keyframes fade {
@@ -163,7 +216,7 @@ hr {
 }
 
 .active {
-	color: var(--text-secondary);
+	color: var(--heading-3);
 }
 
 .banner {

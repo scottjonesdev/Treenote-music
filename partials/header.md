@@ -1,6 +1,6 @@
 <header>
 <a href="index.html">
-			<img src="assets/svg/treenote-banner.svg" alt="Treenote" class="banner" type="image">
+			<img src="assets/svg/treenote-banner.svg" alt="Treenote" class="banner" id="header-banner" type="image">
 		</a>
 		<div>
 			<nav>

@@ -13,9 +13,10 @@
 		<link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
 		<link rel="manifest" href="favicon/site.webmanifest">
 		<link rel="mask-icon" href="favicon/safari-pinned-tab.svg" color="#416e50">
-		<meta name="msapplication-TileColor" content="#da532c">
-		<meta name="theme-color" content="#416e50">
+		<meta name="msapplication-TileColor" content="#603cba">
+		<meta name="theme-color" content="#ff4a6a">
 		<link rel="stylesheet" href="css/style.css">
+		<script src="scripts/theme-selector.js" type="module"></script>
 		<script src="scripts/imageCarousal.js" defer></script>
 		<script src="scripts/active-nav.js" defer></script>
 		<script src="scripts/recentYoutube.js" defer></script>

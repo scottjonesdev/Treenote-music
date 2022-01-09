@@ -13,9 +13,10 @@
 		<link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
 		<link rel="manifest" href="favicon/site.webmanifest">
 		<link rel="mask-icon" href="favicon/safari-pinned-tab.svg" color="#416e50">
-		<meta name="msapplication-TileColor" content="#da532c">
-		<meta name="theme-color" content="#416e50">
+		<meta name="msapplication-TileColor" content="#603cba">
+		<meta name="theme-color" content="#ff4a6a">
 		<link rel="stylesheet" href="css/style.css">
+		<script src="scripts/theme-selector.js" type="module"></script>
 		<script src="scripts/imageCarousal.js" defer></script>
 		<script src="scripts/active-nav.js" defer></script>
 		<script src="scripts/recentYoutube.js" defer></script>
@@ -23,7 +24,7 @@
 </head>
 <header>
 <a href="index.html">
-			<img src="assets/svg/treenote-banner.svg" alt="Treenote" class="banner" type="image">
+			<img src="assets/svg/treenote-banner.svg" alt="Treenote" class="banner" id="header-banner" type="image">
 		</a>
 		<div>
 			<nav>
@@ -50,5 +51,12 @@
 <footer>
 	<p>Contact: <a href="mailto:scottjoneselectronica@gmail.com">scottjoneselectronica@gmail.com <img src="assets/svg/mail.svg" id="mail" alt="Mail"></a></p>
 	<p>© 2022 Treenote Music</p>
+	<div class="theme">
+	<label>Select Theme:</label>
+	<select id="theme-selector">
+  		<option value="light">Light</option>
+  		<option value="dark">Dark</option>
+	</select>
+	</div>
 	<img src="assets/svg/square-logo.svg" id="treenote-logo" alt="Treenote logo">
 </footer>
