@@ -52,9 +52,9 @@ As of March 20, 2020, all three volumes of 2012-2020 are available to download o
 - Instrumental Hip-hop
 
 <div class="volume123">
-	<a href="https://treenote.bandcamp.com/album/2012-2020-vol-1" target="_blank"><img src="assets/photos/volume1.jpg" class="volume" alt="Volume 1"></a>
-	<a href="https://treenote.bandcamp.com/album/2012-2020-vol-2" target="_blank"><img src="assets/photos/volume2.jpg" class="volume" alt="Volume 2"></a>
-	<a href="https://treenote.bandcamp.com/album/2012-2020-vol-3" target="_blank"><img src="assets/photos/volume3.jpg" class="volume" alt="Volume 3"></a>
+	<a href="https://treenote.bandcamp.com/album/2012-2020-vol-1" target="_blank"><img src="assets/photos/volume1.jpg" class="volume" alt="volume 1"></a>
+	<a href="https://treenote.bandcamp.com/album/2012-2020-vol-2" target="_blank"><img src="assets/photos/volume2.jpg" class="volume" alt="volume 2"></a>
+	<a href="https://treenote.bandcamp.com/album/2012-2020-vol-3" target="_blank"><img src="assets/photos/volume3.jpg" class="volume" alt="volume 3"></a>
 </div>
 <div class="clear"></div>
 </section>
