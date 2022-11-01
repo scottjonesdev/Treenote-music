@@ -3,7 +3,7 @@
 # About
 <div class="about-upper" markdown="1">
 
-<img src="assets/photos/headshot.jpg" id="about" alt="Headshot" style="max-width: 100%">
+<img src="assets/photos/headshot2.jpg" id="about" alt="Headshot" style="max-width: 100%">
 </div>
 <div class="about-lower" markdown="1">
 
