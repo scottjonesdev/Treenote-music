@@ -2,6 +2,18 @@
 
 # News
 
+### November 3, 2024
+#### New album: memory
+In *memory*, Treenote explores the transience, decay and axiomatic distortion of recollection, moments of transcendence and heartbreak, fleeting connections, and periodic attempts to escape reality. In other words, *memory*, is a collection of mid-fi beats to pair with your existential crisis. 
+
+Recorded with accompanying performance videos between 2020 and 2024, Treenote stepped away from multitracked DAW compositions in favour of committing to audio in one take. Subsequently, each song acts as a snapshot in time, or journal entry of feelings at the moment of recording. 
+
+Available on <a href="https://treenote.bandcamp.com/album/memory" target="_blank">Bandcamp</a>. 
+
+Watch the album recording process on <a href="https://www.youtube.com/playlist?list=PLexEDEX2ZfnyHG0VZb8esZq9yyrKzsXTd" target="_blank">YouTube</a>.
+
+***
+
 ### June 13, 2021
 I released my new album 'Alone' on Friday the 9th of June. Thematically, the title is an allusion to the process of making ambient electronic music, and being ‘alone’ with my machines. 'Alone' is available to stream via <a href="https://youtube.com/playlist?list=PLexEDEX2ZfnyDTuULnSySl1RaEGIzpDh9" target="_blank">YouTube</a> or download via <a href="https://treenote.bandcamp.com/album/alone" target="_blank">Bandcamp</a>. 
 
