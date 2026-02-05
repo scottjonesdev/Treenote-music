@@ -211,8 +211,13 @@ option {
 }
 
 #mail, #treenote-logo {
+	vertical-align: middle;
 	max-width: 18px;
 	border-radius: 2px;
+}
+
+#mail {
+	padding: 2px 2px;
 }
 
 .active {

@@ -2,6 +2,14 @@
 
 # News
 
+### December 1, 2025
+#### Debut Creatures of Autumn EP release! 
+My band Creatures of Autumn released our debut EP *Crawl*. It is available to stream on most streaming services. 
+
+Check it out on  <a href="https://creaturesofautumn.bandcamp.com/album/crawl" target="_blank">Bandcamp</a>. 
+
+***
+
 ### November 3, 2024
 #### New album: memory
 In *memory*, Treenote explores the transience, decay and axiomatic distortion of recollection, moments of transcendence and heartbreak, fleeting connections, and periodic attempts to escape reality. In other words, *memory*, is a collection of mid-fi beats to pair with your existential crisis. 
