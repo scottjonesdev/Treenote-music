@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2550 401" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-199,-7234)">
+        <g transform="matrix(0.790208,0,0,0.236858,-100.488689,6030.052569)">
+            <rect x="379" y="5083" width="3227" height="1693" style="fill:rgb(33,30,29);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,196.206348,7205.527286)">
+            <g transform="matrix(291.666667,0,0,291.666667,1939.586707,335.654723)">
+            </g>
+            <text x="213.37px" y="335.655px" style="font-family:'Helvetica-BoldOblique', 'Helvetica';font-weight:700;font-style:italic;font-size:291.667px;fill:none;stroke:white;stroke-width:4.17px;">T<tspan x="448.498px 634.92px 870.047px 1105.175px 1356.253px 1607.332px 1777.376px " y="335.655px 335.655px 335.655px 335.655px 335.655px 335.655px 335.655px ">reenote</tspan></text>
+        </g>
+        <g transform="matrix(1.545904,0,0,1.545904,-5793.274532,6060.617011)">
+            <g transform="matrix(1.121804,0,0,1.14178,171.270075,638.006405)">
+                <path d="M4587.589,177.187L4645.876,295.646L4529.302,295.646L4587.589,177.187Z" style="fill:rgb(239,76,107);stroke:rgb(47,47,47);stroke-width:1.91px;stroke-linecap:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(1.447723,0,0,0.690028,-1469.462108,756.10357)">
+                <path d="M4684.582,159.938L4669.566,90.444L4621.686,337.537L4652.937,337.537L4684.582,159.938Z" style="fill:white;stroke:white;stroke-width:1.9px;stroke-linecap:round;stroke-miterlimit:1.5;"/>
+            </g>
+            <g transform="matrix(0.703381,0,0,0.706748,2070.298285,745.300446)">
+                <path d="M4560.448,62.932L4672.512,306.875L4448.385,306.875L4560.448,62.932Z" style="fill:none;stroke:white;stroke-width:3.44px;stroke-linecap:round;stroke-miterlimit:1.5;"/>
+            </g>
+        </g>
+    </g>
+</svg>

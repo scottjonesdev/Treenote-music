@@ -3,19 +3,19 @@
 # About
 <div class="about-upper" markdown="1">
 
-<img src="assets/photos/headshot2.jpg" id="about" alt="Headshot" style="max-width: 100%">
+<img src="assets/photos/scott_synths.jpg" id="about" alt="Headshot" style="max-width: 100%">
 </div>
 <div class="about-lower" markdown="1">
 
-Hello, I am a composer and electronic musician from B.C. Canada. I started writing and recording my own music back in 2010 when I bought my fist laptop and synthesizer. 
+Treenote is the IDM / ambient / downtempo electronica solo project of composer and electronic musician Scott Jones. Treenote has released several full length <a href="https://treenotemusic.ca/about.html">albums</a> and <a href="https://www.youtube.com/c/Treenote?sub_confirmation=1" target="blank">YouTube</a> video performances of their music have garnered more than 145,000 views and over 1,100 subscribers. 
 
-With my music, I aim to amalgamate synthetic tones and textures with emotionally charged melodies and structures. Sylistically, my music can be described as a mix of ambient, idm, and downtempo electronica.
+Treenote's music amalgamates synthetic tones and textures with emotionally charged melodies and structures and explores themes of existential crisis, isolation, anxiety, heartbreak, connection, comfort and the natural world. 
 
-Some artists that inspire me are Boards of Canada, Dear Euphoria, Midera, and Moby. 
+Scott also plays bass in the goth / punk group <a href="https://creaturesofautumn.bandcamp.com/album/crawl" target="_blank">Creatures of Autumn</a> and the neo soul / R&B group Blinkr. 
 
-I have released several full length albums and regularly upload new music videos to my <a href="https://www.youtube.com/c/Treenote?sub_confirmation=1" target="blank">YouTube channel</a>. 
+***
 
-Interested in collaborating or using my music in one of your projects? <a href="mailto:scottjoneselectronica@gmail.com">Get in touch!</a> I would love to hear from you!
+Interested in collaborating or using my music in one of your projects? <a href="mailto:treenotemusic@gmail.com">Get in touch!</a> I would love to hear from you!
 
 </div>
 <div class="clear"></div>
