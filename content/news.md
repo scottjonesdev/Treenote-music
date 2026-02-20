@@ -2,6 +2,18 @@
 
 # News
 
+### February 20, 2026
+#### New album: Falling behind
+In *Falling behind*, despondent yet hopeful synthesized sequences and edge of breakup rhythms and textures pulse to the existential crisis of stagnation and losing touch with yourself in an increasingly detached world.
+
+Recorded with accompanying performance videos between 2020 and 2026.
+
+Available on <a href="https://treenote.bandcamp.com/album/falling-behind" target="_blank">Bandcamp</a>. 
+
+Watch the album recording process on <a href="https://youtube.com/playlist?list=PLexEDEX2Zfnz4d8izyiXk-hG-tBv3ECx6&si=iKpL6i1vypd5Ob2i" target="_blank">YouTube</a>.
+
+***
+
 ### December 1, 2025
 #### Debut Creatures of Autumn EP release! 
 My band Creatures of Autumn released our debut EP *Crawl*. It is available to stream on most streaming services. 
